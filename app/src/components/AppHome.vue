@@ -186,9 +186,11 @@ export default {
     selectNode(nodeId) {
       this.selectedNodeId = nodeId;
       this.selectedNode = content.certifications[nodeId];
-      this.$gtag.event('select-certification', {
-        'event_label': content.certifications[nodeId].name
-      });
+      if (nodeId){
+        this.$gtag.event('select-certification', {
+          'event_label': content.certifications[nodeId].name
+        });
+      }
       this.changeCategory("");
     },
     updateGrayscale(){
