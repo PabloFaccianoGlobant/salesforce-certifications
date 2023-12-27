@@ -186,6 +186,9 @@ export default {
     selectNode(nodeId) {
       this.selectedNodeId = nodeId;
       this.selectedNode = content.certifications[nodeId];
+      this.$gtag.event('select-certification', {
+        'event_label': content.certifications[nodeId].name
+      });
       this.changeCategory("");
     },
     updateGrayscale(){
@@ -218,6 +221,9 @@ export default {
       } else {
         this.sideList.selectedItem = item;
       }
+      this.$gtag.event('view-category', {
+        'event_label': this.sideList.selectedItem
+      });
       this.updateGrayscale();
     }
   },
