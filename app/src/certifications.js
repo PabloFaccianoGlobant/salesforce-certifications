@@ -1070,7 +1070,7 @@ let certifications = {
         location: { x: -5, y: 10 },
         dependencies: [  ],
         related: [ 'bi' ],
-        type: 'Salefo rce Certification',
+        type: 'Salesforce Certification',
         grayscale: false,
     },
 }
