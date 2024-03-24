@@ -6,7 +6,7 @@
         <div class="p-2 text-end text-xs bg-[#222] select-none">
           <span><a class="underline" href="https://github.com/PabloFaccianoGlobant/salesforce-certifications" target="_blank">Github</a></span>
           <span class="mx-2">|</span>
-          <span>Last update: 12-2023</span>
+          <span>Last update: 03-2024</span>
           <span class="mx-2">|</span>
           <span>Made with &hearts; by <a class="underline" href="https://www.linkedin.com/in/pablofacciano/" target="_blank">Pablo Facciano</a></span>
         </div>
