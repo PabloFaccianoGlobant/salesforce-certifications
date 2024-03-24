@@ -988,7 +988,7 @@ let certifications = {
     },
     c33: {
         name: 'Tableau\nDesktop Specialist',
-        tags: 'Tableau',
+        tags: 'Associate,Tableau',
         image: 'https://www.tableau.com/sites/default/files/2023-02/2023-01_Badge_Tab-Cert_Desktop-Specialist_High-Res.png.png',
         link: 'https://www.tableau.com/learn/certification/desktop-specialist',
         location: { x: -12, y: -4 },
@@ -1064,7 +1064,7 @@ let certifications = {
     },
     c40: {
         name: 'Marketing Cloud\nAssociate',
-        tags: 'Admin,Marketer',
+        tags: 'Associate,Admin,Marketer',
         image: 'https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/MarketingAssociate.png',
         link: 'https://trailhead.salesforce.com/en/credentials/marketingassociate',
         location: { x: -4, y: 10 },
