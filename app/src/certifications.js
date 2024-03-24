@@ -562,7 +562,7 @@ let certifications = {
     },
     bb: {
         name: 'Salesforce Data Cloud\nConsultant',
-        tags: 'Consultant,Admin',
+        tags: 'Marketer,Consultant,Admin',
         image: 'https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/datacloudconsultant.png',
         link: 'https://trailhead.salesforce.com/es/credentials/datacloudconsultant',
         location: { x: -8, y: 12 },
@@ -573,7 +573,7 @@ let certifications = {
     },
     bc: {
         name: 'Marketing Cloud\nAccount Engagement\nBusiness Units',
-        tags: 'Consultant,Admin',
+        tags: 'Marketer,Consultant,Admin',
         image: 'https://images.credly.com/size/110x110/images/eb05342a-1ba9-4722-86bc-934cb9345f54/image.png',
         link: 'https://www.credly.com/org/salesforce-ap/badge/marketing-cloud-account-engagement-business-units-accredited-professional',
         location: { x: -6, y: 12 },
@@ -584,7 +584,7 @@ let certifications = {
     },
     bd: {
         name: 'Marketing Cloud\nAccount Engagement\nReporting & Analytics',
-        tags: 'Consultant,Admin',
+        tags: 'Marketer,Consultant,Admin',
         image: 'https://images.credly.com/size/110x110/images/eb05342a-1ba9-4722-86bc-934cb9345f54/image.png',
         link: 'https://www.credly.com/org/salesforce-ap/badge/marketing-cloud-account-engagement-business-units-accredited-professional',
         location: { x: -5, y: 12 },
